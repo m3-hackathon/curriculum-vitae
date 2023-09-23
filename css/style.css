@@ -722,8 +722,8 @@ app marcup
 /* line 124, ../scss/_markup.scss */
 .art-app .art-app-wrapper .art-app-container .art-info-bar {
   background: #20202a;
-  width: 290px;
-  min-width: 290px;
+  width: 370px;
+  min-width: 370px;
   height: calc(100vh - 30px);
   position: relative;
   z-index: 999;
